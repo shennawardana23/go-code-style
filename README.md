@@ -1,5 +1,5 @@
 This repository holds the [Go Style Guide](style.md), which documents
-patterns and conventions used in Go code at Uber.
+patterns and conventions used in Go code.
 
 ## Style Guide
 
